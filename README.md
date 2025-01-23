@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center"> Привет! Я metromors </h1>
+-------------------------------------------------------
+## 🧑‍💻 Обо мне ♥
 
-<!--
-**metromors/metromors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+я ютубер про метро я создаю плагины для маинкрафт и разные игры 
 
-Here are some ideas to get you started:
+[![YouTube]]((https://www.youtube.com/@metromors))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Мои проекты
+
+<details>
+  <summary><b>📂 game uniti </b></summary>
+  <p>Игра на юнити про Pac-Men это версия игры сложнее оригинала.</p>
+</details>
+
+---
+
+<p align="center">
+  <i>baza:
+  Всегда готов помоч или поддержать ♥ </i>
+</p>
