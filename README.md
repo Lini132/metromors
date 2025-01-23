@@ -9,21 +9,14 @@
   <p>https://www.youtube.com/@metromors.</p>
 </details>
 
-----
-## 👨‍💼мои друзья
-
-<details>
-  <summary><b>👨‍💼l1ratch </b></summary>
-  <p>https://github.com/l1ratch.</p>
-</details>
-
 ---
 
 ## 🚀 Мои проекты
 
 <details>
-  <summary><b>📂 game uniti </b></summary>
-  <p>Игра на юнити про Pac-Men это версия игры сложнее оригинала.</p>
+  <summary><b>💻 game uniti </b></summary>
+  <p>Игра на юнити про Pac-Men это версия игры сложнее оригинала
+    💻https://github.com/metromors/game-PacMan-metromors.</p>
 </details>
 
 ---
