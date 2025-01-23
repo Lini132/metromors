@@ -4,10 +4,7 @@
 
 я ютубер про метро я создаю плагины для маинкрафт и разные игры 
 
-<details>
-  <summary><b>YouTube</b></summary>
-  <p>https://www.youtube.com/@metromors.</p>
-</details>
+[![GitHub]((https://gamemag.ru/images/cache/News/News166886/d2b25df520-2_2780x1200.jpg))](https://www.youtube.com/@metromors)
 
 ---
 
