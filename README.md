@@ -5,6 +5,7 @@
 я ютубер про метро я создаю плагины для маинкрафт и разные игры 
 
 -[YouTube]https://www.youtube.com/@metromors)
+-[metromors](сайт скоро будет)
 
 ---
 
