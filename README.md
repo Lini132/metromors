@@ -8,7 +8,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/+wjD89SozsKU4NDky)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/metromors)
-[![YouTube](https://gamemag.ru/images/cache/News/News166886/d2b25df520-2_2780x1200.jpg)](https://www.youtube.com/@metromors)
+[![YouTube](https://icon-icons.com/downloadimage.php?id=49933&root=509/PNG/32/&file=YouTube_Text_icon-icons.com_49933.png&token=efcaaf2d95958eb57e1179fe94c1ad45d505a0995e43048e4511016fe775af55&ts=1737643719)](https://www.youtube.com/@metromors)
 ---
 
 ## 🚀 Мои проекты
