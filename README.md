@@ -1,4 +1,4 @@
-<h1 align="center"> Привет! Я &2metromors </h1>
+<h1 align="center"> Привет! Я metromors </h1>
 -------------------------------------------------------
 ## 🧑‍💻 Обо мне ♥
 
@@ -10,7 +10,12 @@
 </details>
 
 ----
-[![YouTube]]((https://www.youtube.com/@metromors))
+## 👨‍💼мои друзья
+
+<details>
+  <summary><b>👨‍💼l1ratch </b></summary>
+  <p>https://github.com/l1ratch.</p>
+</details>
 
 ---
 
