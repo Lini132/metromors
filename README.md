@@ -18,9 +18,9 @@
 </details>
 
 <details>
-  <summary><b>нету </b></summary>
+  <summary><b>плагин на квесты и викторины в чате </b></summary>
   <p>нету
-    💻нету</p>
+    https://github.com/metromors/quizplugin-1.0.git</p>
 </details>
 ---
 
