@@ -19,8 +19,8 @@
 
 <details>
   <summary><b>плагин на квесты и викторины в чате </b></summary>
-  <p>нету
-    https://github.com/metromors/quizplugin-1.0.git</p>
+  <p>команды в репазиторие⌨️⌨️⌨️
+    ⌨️https://github.com/metromors/quizplugin-1.0.git</p>
 </details>
 ---
 
