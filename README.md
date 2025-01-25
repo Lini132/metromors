@@ -14,19 +14,22 @@
 <details>
   <summary><b>💻 game uniti </b></summary>
   <p>Игра на юнити про Pac-Men это версия игры сложнее оригинала
-    💻https://github.com/metromors/game-PacMan-metromors.</p>
+    
+💻https://github.com/metromors/game-PacMan-metromors.</p>
 </details>
 
 <details>
   <summary><b>плагин на квесты и викторины в чате </b></summary>
   <p>команды в репазиторие⌨️⌨️⌨️
-    ⌨️https://github.com/metromors/quizplugin-1.0.git</p>
+    
+ ⌨️https://github.com/metromors/quizplugin-1.0.git</p>
 </details>
 
 <details>
   <summary><b>плагин на помошь модераторам </b></summary>
   <p>команды в репазиторие⌨️⌨️⌨️
-⌨️https://github.com/metromors/ModerationPlugin-1.0.git</p>
+
+ ⌨️https://github.com/metromors/ModerationPlugin-1.0.git</p>
 </details>
 
 ---
