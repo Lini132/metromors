@@ -22,6 +22,12 @@
   <p>команды в репазиторие⌨️⌨️⌨️
     ⌨️https://github.com/metromors/quizplugin-1.0.git</p>
 </details>
+
+<details>
+  <summary><b>плагин на помошь модераторам </b></summary>
+  <p>команды в репазиторие⌨️⌨️⌨️
+    ⌨️https://github.com/metromors/ModerationPlugin-1.0.git</p>
+</details>
 ---
 
 <p align="center">
