@@ -33,7 +33,7 @@
 </details>
 
 <details>
-  <summary><b>💻 game uniti </b></summary>
+  <summary><b>💻 Build train mods in minecraft </b></summary>
   <p>сборка модов и др для поездов в маинкрафт 1.12.2
     
 💻https://github.com/metromors/Build-train-mods-in-minecraft-1.12.2.</p>
